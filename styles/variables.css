@@ -1,10 +1,11 @@
 :root {
   --background-color: #000028;
-  --title-color: #DB00FF;
-  --accent-color: #FF0070;
+  --title-color: #db00ff;
+  --accent-color: #ff0070;
   --accent-text-color: #000028;
-  --main-text-color: #F1B2CE;
-  --button-color: #FF0070;
-  --decoration-color: #FF0070;
+  --section-title-color: #ff0070;
+  --main-text-color: #f1b2ce;
+  --button-color: #ff0070;
+  --decoration-color: #ff0070;
   --background-image: url(../images/cover-image-dark.png);
 }
