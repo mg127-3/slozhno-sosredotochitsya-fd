@@ -226,7 +226,25 @@
   .header {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    padding: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 0
+  }
+
+  .decorated-zone::before {
+    top: 20px;
+    right: 20px;
+  }
+  
+  .decorated-zone::after {
+    bottom: 20px;
+    left: 20px;
+  }
+
+  .decoration {
+    top: 20px;
+    right: 29px;
   }
 
   .header__theme-menu {
