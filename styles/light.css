@@ -19,10 +19,6 @@
   display: none;
 }
 
-.theme-light .content-section__title {
-  color: var(--main-text-color);
-}
-
 @media (prefers-color-scheme: light) {
   :root {
     --background-color: #fff1f7;
