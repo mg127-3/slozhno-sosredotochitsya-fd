@@ -11,6 +11,7 @@
   --section-title-color: #353430;
   --main-text-color: #353430;
   --button-color: #353430;
+  --button-hover: #32312d66;
   --decoration-color: #353430;
   --background-image: url(../images/cover-image-light.png);
 }
@@ -27,6 +28,7 @@
     --section-title-color: #353430;
     --main-text-color: #353430;
     --button-color: #353430;
+    --button-hover: #32312d66;
     --decoration-color: #353430;
     --background-image: url(../images/cover-image-light.png);
   }
